@@ -9,7 +9,7 @@
       My name is Aliasghar Ghanati and I am a Software & Embedded Systems
       Engineer. Here are some pictures of me:
     </p>
-    <v-row class="justify-center align-center">
+    <v-row class="justify-center align-center mb-4">
       <v-col cols="12" md="8">
         <v-img class="rounded-lg" src="img/me.jpg" />
       </v-col>
@@ -27,7 +27,7 @@
       from my childhood is my dog, who I am still fortunate to keep company of.
       Here is a picture of him:
     </p>
-    <v-row class="justify-center align-center">
+    <v-row class="justify-center align-center mb-4">
       <v-col cols="12" md="8">
         <v-img class="rounded-lg" src="img/sag.jpg" />
       </v-col>
